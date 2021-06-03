@@ -1,4 +1,18 @@
-# [iCheck plugin](http://fronteed.com/iCheck/) <sup>[1.0.3](#october-10-2020)</sup>
+# iCheck
+
+[![GitHub Version](https://img.shields.io/github/release/gaomingcode/icheck.svg)](https://github.com/gaomingcode/icheck)
+[![Packagist Downloads](https://img.shields.io/packagist/dm/gaomingcode/icheck)](https://github.com/gaomingcode/icheck)
+[![Packagist License](https://img.shields.io/packagist/l/gaomingcode/icheck)](https://github.com/gaomingcode/icheck)
+
+## Installation
+
+### Composer
+
+```
+composer require gaomingcode/icheck
+```
+###
+
 #### Highly customizable checkboxes and radio buttons for jQuery and Zepto.
 
 Refer to the [iCheck website](http://fronteed.com/iCheck/) for examples.
@@ -6,7 +20,6 @@ Refer to the [iCheck website](http://fronteed.com/iCheck/) for examples.
 **Note: [iCheck v2.0](https://github.com/fronteed/icheck/tree/2.x) is on the way**, it got a huge performance boost, many new options and methods. It's in a release candidate state, so you may try to use it. Feel free to submit an issue if you find something not working.
 
 ![Skins](http://fronteed.com/iCheck/examples.png)
-
 
 Features
 --------

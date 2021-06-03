@@ -1,4 +1,21 @@
 {
-  "name":"gaomingcode/icheck",
-  "type": "library"
+    "name": "gaomingcode/icheck",
+    "description": "Highly customizable checkboxes and radio buttons (jQuery & Zepto). ",
+    "type": "library",
+    "license": [
+        "MIT"
+    ],
+    "keywords": [
+        "icheck", "checkbox", "radio", "input", "field", "form", "custom", "replacement", "accessibility", "skins", "ui", "checked", "disabled", "indeterminate"
+    ],
+    "homepage": "http://fronteed.com/iCheck",
+    "minimum-stability": "stable",
+    "prefer-stable": true,
+    "author": [
+        {
+            "name": "Damir Sultanov",
+            "email": "info@fronteed.com",
+            "homepage": "http://fronteed.com/"
+        }
+    ]
 }
